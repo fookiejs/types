@@ -241,5 +241,5 @@ export interface MethodPackage {
   Count: Method;
   Test: Method;
   Sum: Method;
-  Methods: Methods;
+  Methods: Method[];
 }
